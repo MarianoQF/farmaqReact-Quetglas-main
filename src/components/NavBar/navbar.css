@@ -1,0 +1,40 @@
+.nav-menu{ 
+  width: 100%;
+  margin: 0;  
+  background-color: #0786d5;
+  top: 0;
+  margin-bottom: 1rem;
+}
+
+.nav-list{  
+  height: 90px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+ul{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  font-weight:bolder;
+  font-size: 1.15em;
+  color:rgb(244, 244, 243)
+}
+
+
+a:hover{
+  font-weight: 600;
+  color: #DEC513;
+}
+
+.nav-menu:hover .card-favicon{
+  display: block;
+}
+
+.brandLogoHeader{
+  height: 5rem;
+  width: auto;
+}
