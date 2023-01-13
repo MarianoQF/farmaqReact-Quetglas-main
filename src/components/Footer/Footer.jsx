@@ -37,17 +37,17 @@ function Footer() {
 
                 <ul className="footer__socialMedia">
                     <li className="socialMedia__item">
-                        <a className="socialMedia__item-content a" href="">
+                        <a className="socialMedia__item-content a" href="https://www.instagram.com/">
                             <img className="a__img" src="/imgs/footerImg/whatsapp.png" alt="whatsapp icon"/>
                         </a>
                     </li>
                     <li className="socialMedia__item">
-                        <a className="socialMedia__item-content a" href="">
+                        <a className="socialMedia__item-content a" href="https://www.instagram.com/">
                             <img className="a__img" src="/imgs/footerImg/instagram.png" alt="instagram icon"/>
                         </a>
                     </li>
                     <li className="socialMedia__item">
-                        <a className="socialMedia__item-content a" href="">
+                        <a className="socialMedia__item-content a" href="https://www.instagram.com/">
                             <img className="a__img" src="/imgs/footerImg/facebook.png" alt="facebook icon"/>
                         </a>
                     </li>
